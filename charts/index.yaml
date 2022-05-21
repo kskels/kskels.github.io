@@ -5,7 +5,7 @@ entries:
     appVersion: "1.1"
     created: "2022-05-21T15:52:18.026439711-05:00"
     description: A Helm Chart for Open 5G Core
-    digest: 9a01a711409a6e8c15397eabe7199acc4bea09ae715f66c789a96954b5639802
+    digest: 76c5d5b7ac8a71e9722d718658dbfc0a75d6e2e20522d7c1cb246174c19fb2c3
     name: 5gcore
     type: application
     urls:
