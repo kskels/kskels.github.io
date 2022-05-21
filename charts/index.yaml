@@ -1,25 +1,14 @@
 apiVersion: v1
 entries:
-  5gran:
+  5gcore:
   - apiVersion: v2
     appVersion: "1.1"
-    created: "2022-05-21T15:07:27.953220265-05:00"
-    description: A Helm Chart for 5GRAN
-    digest: 1286d52f4d3401a5226665b622947cc12d83960c8c3c0c33df77de15a21a4f77
-    name: 5gran
-    type: application
-    urls:
-    - https://kskels.github.io/charts/5g/5gran-0.0.1.tgz
-    version: 0.0.1
-  open5gcore-helm:
-  - apiVersion: v2
-    appVersion: "1.1"
-    created: "2022-05-21T15:07:27.95418165-05:00"
+    created: "2022-05-21T15:52:18.026439711-05:00"
     description: A Helm Chart for Open 5G Core
-    digest: 88b7540f9eb0822fa3eadaad30b58b1649c2270d4f487ce5398ef02fb7da2069
-    name: open5gcore-helm
+    digest: b70b7a5d2a2e899de6d12a23ffe82f26219099dd507d8f7a7e0fe47c694f3db8
+    name: 5gcore
     type: application
     urls:
-    - https://kskels.github.io/charts/5g/open5gcore-helm-0.0.1.tgz
+    - 5https://kskels.github.io/charts/gcore-0.0.1.tgz
     version: 0.0.1
-generated: "2022-05-21T15:07:27.952796254-05:00"
+generated: "2022-05-21T15:52:18.025371721-05:00"
