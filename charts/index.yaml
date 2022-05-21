@@ -9,6 +9,6 @@ entries:
     name: 5gcore
     type: application
     urls:
-    - https://kskels.github.io/charts/gcore-0.0.1.tgz
+    - https://kskels.github.io/charts/5gcore-0.0.1.tgz
     version: 0.0.1
 generated: "2022-05-21T15:52:18.025371721-05:00"
