@@ -9,7 +9,7 @@ entries:
     name: 5gran
     type: application
     urls:
-    - 5gran-0.0.1.tgz
+    - https://kskels.github.io/charts/5g/5gran-0.0.1.tgz
     version: 0.0.1
   open5gcore-helm:
   - apiVersion: v2
@@ -20,6 +20,6 @@ entries:
     name: open5gcore-helm
     type: application
     urls:
-    - open5gcore-helm-0.0.1.tgz
+    - https://kskels.github.io/charts/5g/open5gcore-helm-0.0.1.tgz
     version: 0.0.1
 generated: "2022-05-21T15:07:27.952796254-05:00"
