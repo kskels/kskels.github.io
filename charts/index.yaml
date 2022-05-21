@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  5gran:
+  - apiVersion: v2
+    appVersion: "1.1"
+    created: "2022-05-21T15:07:27.953220265-05:00"
+    description: A Helm Chart for 5GRAN
+    digest: 1286d52f4d3401a5226665b622947cc12d83960c8c3c0c33df77de15a21a4f77
+    name: 5gran
+    type: application
+    urls:
+    - 5gran-0.0.1.tgz
+    version: 0.0.1
+  open5gcore-helm:
+  - apiVersion: v2
+    appVersion: "1.1"
+    created: "2022-05-21T15:07:27.95418165-05:00"
+    description: A Helm Chart for Open 5G Core
+    digest: 88b7540f9eb0822fa3eadaad30b58b1649c2270d4f487ce5398ef02fb7da2069
+    name: open5gcore-helm
+    type: application
+    urls:
+    - open5gcore-helm-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-05-21T15:07:27.952796254-05:00"
